@@ -2,6 +2,7 @@ import tkinter
 from tkinter import messagebox
 from random import randint
 
+# Text Hex Codes
 hot = "#FF5733"
 vhot = "#E32800"
 cold = "#269AFB"
