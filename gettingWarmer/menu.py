@@ -1,6 +1,6 @@
 import tkinter
 from tkinter import messagebox
-from game import launchGame
+from game import launchGame # Setup Game
 
 
 class GameMenuApp:
