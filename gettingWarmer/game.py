@@ -10,6 +10,7 @@ vcold = "#007BE2"
 
 class GameApp:
     def __init__(self, master, wid, hei):
+        self.master = master
         self.run = True
         self.targetX = randint(0, wid - 20)
         self.targetY = randint(0, hei - 20)
